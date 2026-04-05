@@ -1,17 +1,3 @@
-@ftai v2.0 lang:en
-
-@document
-  title: "Track 0: AI for Everyone"
-  author: "FolkTech AI"
-  created: 2026-04-04
-  schema: "ftai-academy-track"
-
-@config
-  track: 0
-  audience: "non-developers"
-  courses: ["001", "002", "003", "004"]
-@end
-
 # Track 0: AI for Everyone
 
 For non-developers. No coding background assumed. Builds conceptual understanding and practical AI literacy.

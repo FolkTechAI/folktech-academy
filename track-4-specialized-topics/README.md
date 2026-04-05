@@ -1,17 +1,3 @@
-@ftai v2.0 lang:en
-
-@document
-  title: "Track 4: Specialized Topics"
-  author: "FolkTech AI"
-  created: 2026-04-04
-  schema: "ftai-academy-track"
-
-@config
-  track: 4
-  audience: "developers"
-  courses: ["401", "402", "403", "404", "405"]
-@end
-
 # Track 4: Specialized Topics
 
 Short, focused modules on specific techniques and concepts.

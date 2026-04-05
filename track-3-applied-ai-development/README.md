@@ -1,17 +1,3 @@
-@ftai v2.0 lang:en
-
-@document
-  title: "Track 3: Applied AI Development"
-  author: "FolkTech AI"
-  created: 2026-04-04
-  schema: "ftai-academy-track"
-
-@config
-  track: 3
-  audience: "developers"
-  courses: ["301", "302", "303", "304"]
-@end
-
 # Track 3: Applied AI Development
 
 Building real products with AI. Where engineering meets ML.

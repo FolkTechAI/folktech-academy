@@ -1,17 +1,3 @@
-@ftai v2.0 lang:en
-
-@document
-  title: "Track 2: Machine Learning Fundamentals"
-  author: "FolkTech AI"
-  created: 2026-04-04
-  schema: "ftai-academy-track"
-
-@config
-  track: 2
-  audience: "developers"
-  courses: ["201", "202", "203", "204"]
-@end
-
 # Track 2: Machine Learning Fundamentals
 
 Core ML concepts every AI developer should understand. Math-light, concept-heavy, code-included.

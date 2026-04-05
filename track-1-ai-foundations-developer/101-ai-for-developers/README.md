@@ -1,21 +1,3 @@
-@ftai v2.0 lang:en
-
-@document
-  title: "AI for Developers"
-  author: "FolkTech AI"
-  created: 2026-04-04
-  schema: "ftai-academy-course"
-
-@config
-  id: "101"
-  track: 1
-  status: "draft-complete"
-  duration: "2-3 hours"
-  prerequisites: []
-  tags: ["ai-fundamentals", "developer"]
-  preview: true
-@end
-
 # Course 101: AI for Developers
 
 **Track:** AI Foundations (Developer)
@@ -23,7 +5,7 @@
 **Prerequisites:** Must be a working developer
 **Status:** Draft Complete
 
-## What You'll Learn
+## Learning Objectives
 
 By the end of this course you will:
 - Speak the AI vocabulary confidently in technical conversations
@@ -35,18 +17,6 @@ By the end of this course you will:
 - Navigate AI model licensing (Apache 2.0, MIT, Llama, GPL, CC)
 - Understand function calling and agentic AI patterns
 - Know the Gemma 4 model family and its capabilities
-
-## Prerequisites
-
-Must be a working developer. Familiarity with at least one programming language is assumed — no ML experience required.
-
-## Course Content
-
-Covers the AI landscape from a developer perspective: vocabulary, training vs inference, the open model ecosystem, tokenization and the generation loop, model types and formats, quantization, inference engines, licensing, function calling, and agentic patterns. Closes with a look at the Gemma 4 model family.
-
-## Who This Is For
-
-Working developers who are new to AI and want a rigorous, technical grounding — not a shallow overview. The starting point for the developer track.
 
 ## Materials
 
